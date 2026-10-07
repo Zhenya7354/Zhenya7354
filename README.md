@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Junior .NET Developer with 1 year of hands-on backend development experience gained through personal, academic and
+mentor-reviewed projects. Built REST APIs and MVC applications using C#, .NET, ASP.NET Core, Entity Framework Core
+and PostgreSQL. Experienced with authentication and authorization, unit and integration testing, Docker, Git and layered
+application architecture. Currently completing a degree in Computer Science and seeking a Junior .NET Developer position.
