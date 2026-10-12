@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Junior .NET Developer with 1 year of hands-on backend development experience gained through personal, academic, and mentor-reviewed projects.
+I'm a Junior .NET Developer with 1 year of hands-on backend development experience gained through personal and academic projects, including mentor code reviews and team-based university development
 
 My main stack includes **C#, .NET, ASP.NET Core, Entity Framework Core, and PostgreSQL.
 
