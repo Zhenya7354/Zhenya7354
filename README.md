@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm a Junior .NET Developer with 1 year of hands-on backend development experience gained through personal and academic projects, including mentor code reviews and team-based university development
 
-My main stack includes **C#, .NET, ASP.NET Core, Entity Framework Core, and PostgreSQL.
+My main stack includes C#, .NET, ASP.NET Core, Entity Framework Core, and PostgreSQL.
 
-I'm experienced with **REST APIs, authentication and authorization, Docker, Git, LINQ, and layered application architecture**, with a growing focus on **unit and integration testing**.
+I'm experienced with REST APIs, authentication and authorization, Docker, Git, LINQ, and layered application architecture, with a growing focus on unit and integration testing.
 
-Currently completing my degree in **Computer Science** and looking for a **Junior .NET Developer** position where I can continue developing my skills and contribute to real-world projects.
+Currently completing my degree in Computer Science and looking for a Junior .NET Developer position where I can continue developing my skills and contribute to real-world projects.
